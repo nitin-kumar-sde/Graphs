@@ -47,7 +47,7 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 📘 [Tutorial](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
 
 
-## DFS
+## 🧗DFS
 
 ### DFS Tutorial
 - [Tutorial](https://cp-algorithms.com/graph/depth-first-search.html)
