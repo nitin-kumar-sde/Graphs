@@ -33,15 +33,20 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
   - [🚍 Bellman-Ford Algorithm](#bellman-ford-algorithm---single-source)
   - [🌉 Floyd-Warshall Algorithm](#floyd-warshall-algorithm---multi-source)
 
-[💥 DSU and MST Problems](#dsu-and-mst)
-  - [Standard](#standard-dsu)
-  - [DSU on Strings](#dsu-on-strings)
-  - [DSU on Grids](#dsu-on-grids)
-  - [MST](#mst)
-  - [MST on Grids](#mst-on-grids)
-  - [MST Variations](#mst-variations)
+[🪢 Disjoint Set Union](#disjoint-set-union)
+  - [📘Tutorial](#disjoint-set-union-tutorial)
+  - [⚙️Standard](#standard-dsu)
+  - [🧵DSU on Strings](#dsu-on-strings)
+  - [🧮DSU on Grids](#dsu-on-grids)
 
----
+[🌲Minimum Spanning Tree](#minimum-spanning-tree)
+  - [🪜Prims Algorithm](#prims-algorithm)
+  - [🪓Krushkals Algorithm](#krushkals-algorithm)
+  - [📦Standard MST Problems](#standard-mst-problems)
+  - [🧱MST on Grids](#mst-on-grids)
+  - [🪝MST Variations](#mst-variations)
+
+
 
 ## 🧩Graph Representation
 📘 [Tutorial](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
@@ -100,7 +105,6 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 - [TOPOSORT](https://www.spoj.com/problems/TOPOSORT/)
 
 
-
 ## 🚙Shortest Distance Problems
 
 ### Dijkstra Algorithm - Single Source
@@ -131,34 +135,45 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 ### 🌉Floyd-Warshall Algorithm - multi source
 - [Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1)
 
----
 
-## 🏗️DSU and MST
+## 🪢Disjoint Set Union
 
-### Standard DSU
+### 📘Disjoint Set Union Tutorial
+- [Tutorial](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
+
+### 🧰Standard DSU
 - [Redundant Connection](https://leetcode.com/problems/redundant-connection)
 - [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)
 
-### DSU on Strings
+### 🧵DSU on Strings
 - [Similar String Groups](https://leetcode.com/problems/similar-string-groups)
 - [Smallest String with Swaps](https://leetcode.com/problems/smallest-string-with-swaps)
 - [Accounts Merge](https://leetcode.com/problems/accounts-merge)
 - [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)
 
-### DSU on Grids
+### 🧮DSU on Grids
 - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 - [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)
 - [Making a Large Island](https://leetcode.com/problems/making-a-large-island)
 
-### MST
+
+## 🌲Minimum Spanning Tree
+
+### 🪜Prims Algorithm
+- [Tutorial](https://cp-algorithms.com/graph/mst_prim.html)
+
+### 🪓Krushkals Algorithm
+- [Tutorial](https://cp-algorithms.com/graph/mst_kruskal.html)
+
+### 📦Standard MST Problems
 - [Complete Journey](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/complete-journey-bf38d697/)
 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points)
 - [CSTREET](https://www.spoj.com/problems/CSTREET/)
 
-### MST on Grids
+### 🧱MST on Grids
 - [Grid of Many XORs](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/grid-of-many-xors-de84b766/)
 
-### MST Variations
+### 🪝MST Variations
 - [Rebuild](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/rebuild/)
 
 - [Edges in MST](https://codeforces.com/problemset/problem/160/D)
