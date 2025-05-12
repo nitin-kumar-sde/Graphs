@@ -5,7 +5,6 @@ Welcome to the **Graph Problem Collection**! This repository contains a carefull
 Whether you're a beginner or an advanced coder, these problems will help you sharpen your graph problem-solving skills.
 
 
-
 ## 📚 Table of Contents
 
 [🧩 Graph Representation](#graph-representation)
@@ -23,17 +22,18 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
   - [🌐 Standard Graph / Tree BFS](#standard-graph--tree-bfs)
   - [🧱 BFS over Grids / Matrices](#bfs-over-grids--matrices)
   - [🧬 Transformation](#transformation)
-  - [🎛️  Multi-source BFS](#multi-source-bfs)
+  - [💥 Multi-source BFS](#multi-source-bfs)
   - [🕹️ BFS with States](#bfs-with-states)
   - [🧾 Toposort using BFS](#kahns-algorithm)
 
 
 [🔄 Shortest Distance Problems](#shortest-distance-problems)
-  - [Dijkstra Algorithm](#dijkstra-algorithm---single-source)
-  - [Bellman-Ford Algorithm](#bellman-ford-algorithm---single-source)
-  - [Floyd-Warshall Algorithm](#floyd-warshall-algorithm---multi-source)
+  - [📘 Tutorial](#dijkstra-tutorial)
+  - [🚘 Dijkstra Algorithm](#dijkstra-algorithm---single-source)
+  - [🚍 Bellman-Ford Algorithm](#bellman-ford-algorithm---single-source)
+  - [🌉 Floyd-Warshall Algorithm](#floyd-warshall-algorithm---multi-source)
 
-[💥 DSU and MST Problems](#-dsu-and-mst-problems)
+[💥 DSU and MST Problems](#dsu-and-mst)
   - [Standard](#standard-dsu)
   - [DSU on Strings](#dsu-on-strings)
   - [DSU on Grids](#dsu-on-grids)
@@ -43,97 +43,97 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 
 ---
 
-## Graph Representation
+## 🧩Graph Representation
 📘 [Tutorial](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
 
 
 ## 🧗DFS
 
-### DFS Tutorial
+### 📘DFS Tutorial
 - [Tutorial](https://cp-algorithms.com/graph/depth-first-search.html)
 
-### Standard Graph DFS / Tree 
+### 🌴Standard Graph DFS / Tree 
 - [RTREE](https://www.spoj.com/problems/RTREE/)
 
-### DFS over Grids / Matrices
+### 🧱DFS over Grids / Matrices
 - [MAKEMAZE](https://www.spoj.com/problems/MAKEMAZE/)
 
-### Topological Sorting
+### 🧾Topological Sorting
 - [Course Schedule](https://leetcode.com/problems/course-schedule)
 
-### Kosaraju Algorithm
+### 🔐Kosaraju Algorithm
 - [Strongly Connected Components](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
 - [CAPCITY](https://www.spoj.com/problems/CAPCITY/)
 
-### Tarjan's Algorithm
+### 🚦Tarjans Algorithm
 - [Bridges](https://leetcode.com/problems/critical-connections-in-a-network)
 
 
-## BFS
-### BFS Tutorial
+## 🧭BFS
+### 📘BFS Tutorial
 - [Tutorial](https://cp-algorithms.com/graph/breadth-first-search.html)
-### Standard Graph / Tree BFS
+### 🌴Standard Graph / Tree BFS
 - [BFS](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 
 
 
-### BFS over Grids / Matrices
+### 🧱BFS over Grids / Matrices
 - [NAKANJ](https://www.spoj.com/problems/NAKANJ/)
 - [CATM](https://www.spoj.com/problems/CATM/)
 - [KOZE](https://www.spoj.com/problems/KOZE/)
 - [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
 
-### Transformation
+### 🧬Transformation
 - [Open the Lock](https://leetcode.com/problems/open-the-lock/description/)
 - [Word Ladder](https://leetcode.com/problems/word-ladder/description/)
 - [ONEZERO](https://www.spoj.com/problems/ONEZERO/)
 - [PPATH](https://www.spoj.com/problems/PPATH/)
 
-### Multi-source BFS
+### 💥Multi-source BFS
 - [01 Matrix](https://leetcode.com/problems/01-matrix/description/)
 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 
-### BFS with States
+### 🎮BFS with States
 - [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)
 
-### Kahn's Algorithm
+### 🧾Kahn's Algorithm
 - [TOPOSORT](https://www.spoj.com/problems/TOPOSORT/)
 
 
 
-## Shortest Distance Problems
+## 🚙Shortest Distance Problems
 
 ### Dijkstra Algorithm - Single Source
-### Dijkstra Tutorial
+### 📘Dijkstra Tutorial
 - [Tutorial](https://cp-algorithms.com/graph/dijkstra.html)
 
-### Standard Dijkstra
+### 🧠Standard Dijkstra
 - [Network Delay Time](https://leetcode.com/problems/network-delay-time)
 
-### Dijkstra over Grids
+### 🧱Dijkstra over Grids
 - [Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)
 - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)
 
-### Max Type
+### 📈Max Type
 - [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability)
 
-### Multi-source Dijkstra
+### 🎛️Multi-source Dijkstra
 - [Vaccine](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/vaccine-2c845ac0)
 
-### Dijkstra with Constraints
+### 🕳️Dijkstra with Constraints
 - [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/)
 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 - [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination)
 
-### Bellman Ford Algorithm - single source
+### 🚍Bellman Ford Algorithm - single source
 - [Bellman Ford](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1)
 
-### Floyd-Warshall Algorithm - multi source
+### 🌉Floyd-Warshall Algorithm - multi source
 - [Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1)
 
 ---
 
-## 💥 DSU and MST Problems
+## 🏗️DSU and MST
 
 ### Standard DSU
 - [Redundant Connection](https://leetcode.com/problems/redundant-connection)
