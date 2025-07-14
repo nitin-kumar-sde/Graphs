@@ -164,6 +164,14 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 
 # 👑 Additional Problems
 
+- [New Year Transportation](https://codeforces.com/problemset/problem/500/A)
+- [Permutation Swaps](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/permutation-swaps/)
+- [Connected Horses](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/connected-horses-10)
+- [Kingdom Of Monkeys](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/kingdom-of-monkeys/)
+- [Space smugglers](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/space-smugglers)
+- [Falling Dominos](https://www.hackerearth.com/problem/algorithm/falling-dominos-49b1ed46)
+- 
+
 ---
 
 ## 💬 Contributing
