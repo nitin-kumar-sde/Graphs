@@ -112,6 +112,7 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 
 ## 🌉 Floyd-Warshall Algorithm - Multi Source
 - [Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1)
+- [Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)
 
 ---
 
