@@ -12,7 +12,8 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 - [🧭 BFS](#bfs)
 - [🔄 Shortest Distance Problems](#shortest-distance-problems)
 - [🪢 Disjoint Set Union](#disjoint-set-union)
-- [🌲Minimum Spanning Tree](#minimum-spanning-tree)
+- [🌲 Minimum Spanning Tree](#minimum-spanning-tree)
+- [👑 Additional Problems](#-additional-problems)
 
 ---
 
@@ -158,6 +159,10 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 ## 🪝MST Variations
 - [Rebuild](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/rebuild/)
 - [Edges in MST](https://codeforces.com/problemset/problem/160/D)
+
+---
+
+# 👑 Additional Problems
 
 ---
 
