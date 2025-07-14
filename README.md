@@ -118,46 +118,48 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 
 # 🪢Disjoint Set Union
 
-### 📘Disjoint Set Union Tutorial
+## 📘 Disjoint Set Union Tutorial
 - [Tutorial](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
 
-### 🧰Standard DSU
+## 🧰 Standard DSU
 - [Redundant Connection](https://leetcode.com/problems/redundant-connection)
+- [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)
 - [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)
 
-### 🧵DSU on Strings
+## 🧵 DSU on Strings
 - [Similar String Groups](https://leetcode.com/problems/similar-string-groups)
 - [Smallest String with Swaps](https://leetcode.com/problems/smallest-string-with-swaps)
 - [Accounts Merge](https://leetcode.com/problems/accounts-merge)
-- [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)
 
-### 🧮DSU on Grids
+## 🧮 DSU on Grids
 - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 - [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)
 - [Making a Large Island](https://leetcode.com/problems/making-a-large-island)
 
+---
 
-## 🌲Minimum Spanning Tree
+# 🌲Minimum Spanning Tree
 
-### 🪜Prims Algorithm
+## 🪜Prims Algorithm
 - [Tutorial](https://cp-algorithms.com/graph/mst_prim.html)
 
-### 🪓Krushkals Algorithm
+## 🪓Krushkals Algorithm
 - [Tutorial](https://cp-algorithms.com/graph/mst_kruskal.html)
 
-### 📦Standard MST Problems
+## 📦Standard MST Problems
 - [Complete Journey](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/complete-journey-bf38d697/)
 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points)
 - [CSTREET](https://www.spoj.com/problems/CSTREET/)
 
-### 🧱MST on Grids
+## 🧱MST on Grids
 - [Grid of Many XORs](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/grid-of-many-xors-de84b766/)
 
-### 🪝MST Variations
+## 🪝MST Variations
 - [Rebuild](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/rebuild/)
-
 - [Edges in MST](https://codeforces.com/problemset/problem/160/D)
 
+
+---
 
 ## 💬 Contributing
 
