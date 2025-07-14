@@ -72,10 +72,10 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 - [01 Matrix](https://leetcode.com/problems/01-matrix/description/)
 - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 
-## 🎮BFS with States
+## 🎮 BFS with States
 - [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)
 
-## 🧾Kahn's Algorithm
+## 🧾 Kahn's Algorithm
 - [TOPOSORT](https://www.spoj.com/problems/TOPOSORT/)
 
 ---
