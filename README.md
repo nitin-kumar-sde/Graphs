@@ -140,24 +140,24 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 
 # 🌲Minimum Spanning Tree
 
-## 🪜Prims Algorithm
+## 🪜 Prims Algorithm
 - [Tutorial](https://cp-algorithms.com/graph/mst_prim.html)
 
-## 🪓Krushkals Algorithm
+## 🪓 Krushkals Algorithm
 - [Tutorial](https://cp-algorithms.com/graph/mst_kruskal.html)
 
-## 📦Standard MST Problems
-- [Complete Journey](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/complete-journey-bf38d697/)
+## 📦 Standard MST Problems
+
 - [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points)
+- [Complete Journey](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/complete-journey-bf38d697/)
 - [CSTREET](https://www.spoj.com/problems/CSTREET/)
 
-## 🧱MST on Grids
+## 🧱 MST on Grids
 - [Grid of Many XORs](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/grid-of-many-xors-de84b766/)
 
 ## 🪝MST Variations
 - [Rebuild](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/rebuild/)
 - [Edges in MST](https://codeforces.com/problemset/problem/160/D)
-
 
 ---
 
