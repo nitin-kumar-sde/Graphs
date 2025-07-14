@@ -84,32 +84,33 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 # 🚙Shortest Distance Problems
 
 ## Dijkstra Algorithm - Single Source
-## 📘Dijkstra Tutorial
+## 📘 Dijkstra Tutorial
 - [Tutorial](https://cp-algorithms.com/graph/dijkstra.html)
 
-## 🧠Standard Dijkstra
+## 🧠 Standard Dijkstra
 - [Network Delay Time](https://leetcode.com/problems/network-delay-time)
 
-## 🧱Dijkstra over Grids
-- [Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)
-- [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)
+## 🧱 Dijkstra over Grids
 
-## 📈Max Type
+- [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)
+- [Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort)
+
+## 📈 Max Type
 - [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability)
 
-## 🎛️Multi-source Dijkstra
+## 🎛️ Multi-source Dijkstra
 - [Vaccine](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/vaccine-2c845ac0)
 
-## 🕳️Dijkstra with Constraints
-- [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/)
-- [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
+## 🕳️ Dijkstra with Constraints
+- [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time)
+- [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
 - [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination)
 
 
-## 🚍Bellman Ford Algorithm - single source
+## 🚍 Bellman Ford Algorithm - Single Source
 - [Bellman Ford](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1)
 
-## 🌉Floyd-Warshall Algorithm - multi source
+## 🌉 Floyd-Warshall Algorithm - Multi Source
 - [Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1)
 
 ---
