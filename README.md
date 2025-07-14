@@ -43,7 +43,6 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
   
 ## 🔐 Kosaraju Algorithm
 - [Strongly Connected Components](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
-- [CAPCITY - Capital City](https://www.spoj.com/problems/CAPCITY/)
 
 ## 🚦 Tarjans Algorithm
 - [Bridges](https://leetcode.com/problems/critical-connections-in-a-network)
@@ -158,7 +157,7 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 
 ## 🪝MST Variations
 - [Rebuild](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/rebuild/)
-- [Edges in MST](https://codeforces.com/problemset/problem/160/D)
+
 
 ---
 
@@ -170,7 +169,13 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 - [Kingdom Of Monkeys](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/kingdom-of-monkeys/)
 - [Space smugglers](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/space-smugglers)
 - [Falling Dominos](https://www.hackerearth.com/problem/algorithm/falling-dominos-49b1ed46)
-- 
+- [CAPCITY - Capital City](https://www.spoj.com/problems/CAPCITY/)
+- [BOTTOM - The Bottom of a Graph](https://www.spoj.com/problems/BOTTOM/)
+- [TOUR - Fake tournament](https://www.spoj.com/problems/TOUR/)
+- [BUGLIFE - A Bug’s Life](https://www.spoj.com/problems/BUGLIFE/)
+- [Fill The Matrix](https://www.codechef.com/SEPT17/problems/FILLMTR)
+- [Edges in MST](https://codeforces.com/problemset/problem/160/D)
+
 
 ---
 
