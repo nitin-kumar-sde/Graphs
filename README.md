@@ -35,6 +35,7 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 
 ## 🧾 Topological Sorting
 - [Course Schedule](https://leetcode.com/problems/course-schedule)
+- [Alien Dictionary](https://leetcode.com/problems/alien-dictionary)
 
 ## 💕 Bipartite Graphs
 - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)
