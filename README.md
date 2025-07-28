@@ -76,6 +76,9 @@ Whether you're a beginner or an advanced coder, these problems will help you sha
 ## 🎮 BFS with States
 - [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)
 
+## 🐌 Lazy BFS
+- [Just shortest distance problem](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/just-shortest-distance-problem)
+
 ## 🧾 Kahn's Algorithm
 - [TOPOSORT](https://www.spoj.com/problems/TOPOSORT/)
 
